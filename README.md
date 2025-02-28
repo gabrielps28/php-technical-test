@@ -14,12 +14,12 @@ Este proyecto utiliza Docker para gestionar el entorno de desarrollo y ejecució
    git clone <URL_DEL_REPOSITORIO>
    cd <DIRECTORIO_DEL_PROYECTO>
 
-2. **Construye y levanta los contenedores**:
+## Construye y levanta los contenedores
 Ejecuta el siguiente comando para construir y levantar los contenedores en segundo plano:
-make start
+        make start
 
-3. **Instala las dependencias de Composer**:
-make install
+## Instala las dependencias de Composer
+        make install
 
 ## Ejecución de Pruebas
 El proyecto incluye pruebas unitarias y de integración. Puedes ejecutar las pruebas de la siguiente manera:
