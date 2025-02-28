@@ -9,8 +9,7 @@ Este proyecto utiliza Docker para gestionar el entorno de desarrollo y ejecució
 
 ## Configuración del Proyecto
 
-1. **Clona el repositorio**:
-   ```bash
+**Clona el repositorio**
    git clone <URL_DEL_REPOSITORIO>
    cd <DIRECTORIO_DEL_PROYECTO>
 
